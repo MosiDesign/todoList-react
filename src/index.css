@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  height: 100vh;
+  background-color: #F1F5F8;
+  font-family: "Roboto", sans-serif;
+}
+
+#root{
+  height: 100%;
+}
